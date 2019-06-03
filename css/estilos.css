@@ -1,0 +1,37 @@
+    .caja-semaforo {
+        background-image: url(https://img.freepik.com/foto-gratis/abstracto-pintado-fondo-acuarela-amarillo-textura-papel_23-2147835996.jpg?size=626&ext=jpg) ;
+        width: 80px;
+        border-radius: 50px ;
+        border: 2px solid black;
+        margin: 0 auto;
+        padding: 10px;
+
+    }
+    .luz-semaforo {
+        background-color: grey;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        border: 2px solid black;
+        margin: 0 auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 10px;
+
+    }
+    .centrar{
+        text-align: center;
+        margin-top: 20px;
+    }
+    button {
+        background-color: rosybrown;
+        color: black;
+        font-family: 'Press Start 2P', cursive;
+        padding: 10px;
+        border-radius: 15px;
+    }
+    body{
+        background-image: url(https://images3.alphacoders.com/518/thumb-1920-5185.jpg);
+    }
+
+   
